@@ -1,0 +1,10 @@
+function reversestring(text){
+//     let reversestring = " ";
+//     for(char of text){
+//         reversestring = char + reversestring;
+//     }
+//     return reversestring; 
+// }
+// console.log(reversestring("hello world"));
+// console.log(reversestring("allahmudillah"));
+// console.log(reversestring("menifest over procastinate"));
